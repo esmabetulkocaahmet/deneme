@@ -1,0 +1,20 @@
+# Temel bilimsel kütüphaneler
+numpy==1.24.4
+pandas==1.5.3
+
+# Görüntü işleme
+opencv-python==4.9.0.80
+matplotlib==3.7.1
+
+# Yapay zeka / Derin öğrenme
+tensorflow==2.15.0
+
+# İşaret dili projeleri için el ve vücut takibi
+mediapipe==0.10.9
+
+# Gelişmiş modeller ve grafiksel analizler için opsiyonel
+scikit-learn==1.2.2
+seaborn==0.12.2
+
+# Sistem uyumluluğu ve hata ayıklama
+tqdm==4.65.0
